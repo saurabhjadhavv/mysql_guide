@@ -1,3 +1,3 @@
-drop database if exists DB;
+DROP DATABASE IF EXISTS DB;
 CREATE DATABASE DB;
 USE DB;
